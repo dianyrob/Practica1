@@ -1,0 +1,10 @@
+Homeword in Testcafe:
+
+dratTask_Test.js 
+-Drag & Drop a task
+
+landingPage_Test.js: 
+- Update a Task Name
+- Delete a Task
+- Modify Task Due Date
+
